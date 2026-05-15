@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="products-container">
+        <h2>Admin Product Management</h2>
+
+        <form id="add-product-form">
+            <input type="text" id="product-name" placeholder="Product name" required>
+            <input type="number" id="product-price" placeholder="Product price" required>
+            <input type="number" id="product-stock" placeholder="Product stock" required>
+            <button type="submit">Add Product</button>
+        </form>
+
+        <h3>Products</h3>
+<div id="admin-product-list"></div>
+
+<h3>Orders</h3>
+<div id="order-list"></div>
+
+<button onclick="logout()">Logout</button>
+    </div>
+
+    <script src="admin.js"></script>
+</body>
+</html>
