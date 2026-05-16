@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Orders</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <div class="admin-header">
+        <div class="admin-title">
+            Admin Order Management
+        </div>
+
+        <div class="admin-nav">
+            <button onclick="window.location.href='admin-products.html'">
+                Products
+            </button>
+        </div>
+    </div>
+
+    <h2 class="section-title">Orders</h2>
+
+    <div id="order-list" class="admin-grid"></div>
+
+    <button class="logout-btn" onclick="logout()">
+        Logout
+    </button>
+
+</div>
+
+<script src="admin-orders.js"></script>
+
+</body>
+</html>
