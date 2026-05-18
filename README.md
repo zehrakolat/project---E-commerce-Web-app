@@ -107,7 +107,7 @@ Database
 ## 📂 Project Structure
 
 '''bash
-STAGE2/
+STAGE2
 │
 ├── backend
 │   ├── controllers
@@ -116,7 +116,7 @@ STAGE2/
 │   ├── database
 │   └── server.js
 │
-├── views/
+├── views
 │   ├── index.html
 │   ├── register.html
 │   ├── products.html
