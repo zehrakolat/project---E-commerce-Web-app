@@ -72,7 +72,6 @@ The system supports both Customer and Admin roles and demonstrates the practical
 
 The system follows a layered backend architecture:
 
-```text
 Frontend (HTML/CSS/JavaScript)
         ↓
 Controllers
@@ -81,4 +80,25 @@ Services
         ↓
 Models
         ↓
-SQLite Databas
+SQLite Database
+
+
+
+
+⚙️ Technologies Used
+
+Frontend
+
+* HTML5
+* CSS3
+* Vanilla JavaScript
+
+Backend
+
+* Node.js
+* Express.js
+
+Database
+
+* SQLite
+* better-sqlite3
