@@ -105,26 +105,23 @@ Database
 
 ## 📂 Project Structure
 
-text
-STAGE2
-├── backend
-│   ├── controllers
-│   ├── services
-│   ├── models
-│   ├── database
-│   └── server.js
-
-├── views
-│   ├── index.html
-│   ├── register.html
-│   ├── products.html
-│   ├── forgot.html
-│   ├── admin-products.html
-│   ├── admin-orders.html
-│   ├── script.js
-│   ├── products.js
-│   ├── admin-products.js
-│   ├── admin-orders.js
-│   └── style.css
-
-└── README.md
+- STAGE2/
+  - backend/
+    - controllers/
+    - services/
+    - models/
+    - database/
+    - server.js
+  - views/
+    - index.html
+    - register.html
+    - products.html
+    - forgot.html
+    - admin-products.html
+    - admin-orders.html
+    - script.js
+    - products.js
+    - admin-products.js
+    - admin-orders.js
+    - style.css
+  - README.md
