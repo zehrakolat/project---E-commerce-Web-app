@@ -85,7 +85,7 @@ SQLite Database
 
 
 
-⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 Frontend
 
