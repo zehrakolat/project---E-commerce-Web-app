@@ -109,11 +109,11 @@ Database
 '''bash
 STAGE2/
 │
-├── backend/
-│   ├── controllers/
-│   ├── services/
-│   ├── models/
-│   ├── database/
+├── backend
+│   ├── controllers
+│   ├── services
+│   ├── models
+│   ├── database
 │   └── server.js
 │
 ├── views/
