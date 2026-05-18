@@ -106,7 +106,7 @@ Database
 
 ## 📂 Project Structure
 
-text
+'''bash
 STAGE2/
 │
 ├── backend/
@@ -130,3 +130,4 @@ STAGE2/
 │   └── style.css
 │
 └── README.md
+'''
