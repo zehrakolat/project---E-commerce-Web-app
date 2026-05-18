@@ -104,6 +104,9 @@ Database
 * better-sqlite3
 
 
+## 📂 Project Structure
+
+text
 STAGE2/
 │
 ├── backend/
@@ -111,7 +114,7 @@ STAGE2/
 │   ├── services/
 │   ├── models/
 │   ├── database/
-│   ├── server.js
+│   └── server.js
 │
 ├── views/
 │   ├── index.html
@@ -124,6 +127,6 @@ STAGE2/
 │   ├── products.js
 │   ├── admin-products.js
 │   ├── admin-orders.js
-│   ├── style.css
+│   └── style.css
 │
 └── README.md
