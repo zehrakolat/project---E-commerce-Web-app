@@ -103,10 +103,9 @@ Database
 * SQLite
 * better-sqlite3
 
-
 ## 📂 Project Structure
 
-bash
+text
 STAGE2
 ├── backend
 │   ├── controllers
