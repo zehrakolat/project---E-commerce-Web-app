@@ -73,13 +73,13 @@ The system supports both Customer and Admin roles and demonstrates the practical
 The system follows a layered backend architecture:
 
 Frontend (HTML/CSS/JavaScript)
-        ↓
+        -->
 Controllers
-        ↓
+        -->
 Services
-        ↓
+        -->
 Models
-        ↓
+        -->
 SQLite Database
 
 
