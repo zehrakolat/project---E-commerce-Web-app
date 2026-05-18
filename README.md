@@ -106,16 +106,15 @@ Database
 
 ## 📂 Project Structure
 
-'''bash
+bash
 STAGE2
-│
 ├── backend
 │   ├── controllers
 │   ├── services
 │   ├── models
 │   ├── database
 │   └── server.js
-│
+
 ├── views
 │   ├── index.html
 │   ├── register.html
@@ -128,6 +127,5 @@ STAGE2
 │   ├── admin-products.js
 │   ├── admin-orders.js
 │   └── style.css
-│
+
 └── README.md
-'''
